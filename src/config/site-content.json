@@ -42,18 +42,32 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/uqayiyufog07-eng",
-			"label": "Github",
-			"order": 3
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/uqayiyufog07-eng",
+			"label": "Github",
+			"order": 2
+		},
+		{
+			"id": "button-1765680059131",
+			"type": "tg",
+			"value": "https://t.me/laoqian303",
+			"label": "Telegram",
+			"order": 3
+		},
+		{
+			"id": "button-1765680193695",
+			"type": "link",
+			"value": "https://home.laoqian303.qzz.io/",
+			"label": "home",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": true,
@@ -61,6 +75,6 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 2,
+	"currentHatIndex": 12,
 	"hatFlipped": false
 }
