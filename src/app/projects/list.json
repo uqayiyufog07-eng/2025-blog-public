@@ -18,5 +18,15 @@
 		"tags": [
 			"Web"
 		]
+	},
+	{
+		"name": "封面生成器",
+		"year": 2026,
+		"image": "https://pic1.imgdb.cn/item/6986bdfad23a0507340fe0b8.webp",
+		"url": "https://cover.laoqian303.qzz.io/",
+		"description": "平时写博客的时候需要一个可以简单地生成封面的网站。",
+		"tags": [
+			"Web"
+		]
 	}
 ]
