@@ -7,7 +7,8 @@
 		"description": "我搭建的第1个项目，也是第1个博客。",
 		"tags": [
 			"Web"
-		]
+		],
+		"github": "https://github.com/uqayiyufog07-eng/NotionNext/tree/main"
 	},
 	{
 		"name": "个人主页",
@@ -17,7 +18,8 @@
 		"description": "我的个人主页。",
 		"tags": [
 			"Web"
-		]
+		],
+		"github": "https://github.com/uqayiyufog07-eng/home"
 	},
 	{
 		"name": "封面生成器",
@@ -27,6 +29,19 @@
 		"description": "平时写博客的时候需要一个可以简单地生成封面的网站。",
 		"tags": [
 			"Web"
-		]
+		],
+		"github": "https://github.com/uqayiyufog07-eng/easy_cover"
+	},
+	{
+		"name": "edgetunnel",
+		"year": 2026,
+		"image": "https://pic1.imgdb.cn/item/6986bdfad23a0507340fe0b8.webp",
+		"url": "https://vpp.laoqian303.us.kg/admin",
+		"description": "翻墙必备神器。",
+		"tags": [
+			"Web",
+			"CF Workers/Pages"
+		],
+		"github": "https://github.com/uqayiyufog07-eng/edgetunnel"
 	}
 ]
