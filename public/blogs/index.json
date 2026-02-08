@@ -1,5 +1,15 @@
 [
   {
+    "slug": "002",
+    "title": "梯子",
+    "tags": [],
+    "date": "2026-02-08T22:09",
+    "summary": "搭建梯子可以通过注册Cloudflare账号和使用开源软件V2rayN或FIClash，创建worker并填写特定代码来实现，适合新手和特殊用户。",
+    "cover": "/blogs/002/8510a5a341fcf976.webp",
+    "hidden": false,
+    "category": "代码实现"
+  },
+  {
     "slug": "reading",
     "title": "正在开发中...",
     "tags": [],
