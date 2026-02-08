@@ -9,5 +9,15 @@
 			"Github"
 		],
 		"stars": 4
+	},
+	{
+		"name": "聚合图床",
+		"logo": "blob:https://introduce.laoqian303.qzz.io/fda67347-4f78-4844-9125-952cf0b312d2",
+		"url": "https://www.superbed.cn/",
+		"description": "几乎免费的图床网站。",
+		"tags": [
+			"Picture"
+		],
+		"stars": 3
 	}
 ]
