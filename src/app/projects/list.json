@@ -43,5 +43,16 @@
 			"CF Workers/Pages"
 		],
 		"github": "https://github.com/uqayiyufog07-eng/edgetunnel"
+	},
+	{
+		"name": "NewsNow",
+		"year": 2026,
+		"image": "blob:https://introduce.laoqian303.qzz.io/8d9a1a73-3dd3-4f42-aa86-8681aaa4fc83",
+		"url": "https://news.laoqian303.qzz.io/",
+		"description": "优雅地阅读实时热门新闻。",
+		"tags": [
+			"Web"
+		],
+		"github": "https://github.com/uqayiyufog07-eng/newsnow"
 	}
 ]
