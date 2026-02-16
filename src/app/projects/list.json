@@ -54,5 +54,16 @@
 			"Web"
 		],
 		"github": "https://github.com/uqayiyufog07-eng/newsnow"
+	},
+	{
+		"name": "MacOS Sequoia",
+		"year": 2026,
+		"image": "https://pic1.imgdb.cn/item/699291e500a52e056d236b24.png",
+		"url": "https://mac.laoqian303.qzz.io/",
+		"description": "Webintosh 是一个开源项目，旨在通过现代 Web 技术（HTML 5、CSS 3、Java Script）精确还原 macOS Sequoia（15.7）操作系统的用户界面和交互体验。该项目完全在浏览器中运行，无需任何安装或系统要求。",
+		"tags": [
+			"Web"
+		],
+		"github": "https://github.com/uqayiyufog07-eng/Webintosh-Desktop"
 	}
 ]
