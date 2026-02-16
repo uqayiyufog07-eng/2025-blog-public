@@ -65,5 +65,27 @@
 			"Web"
 		],
 		"github": "https://github.com/uqayiyufog07-eng/Webintosh-Desktop"
+	},
+	{
+		"name": "planet",
+		"year": 2026,
+		"image": "https://www.yjln.com/usr/uploads/2025/12/2466553656.png",
+		"url": "https://planet.laoqian303.workers.dev/",
+		"description": "利用Three.js开发的手势控制粒子代码",
+		"tags": [
+			"Web"
+		],
+		"github": "https://github.com/uqayiyufog07-eng/planet"
+	},
+	{
+		"name": "网页音乐播放器",
+		"year": 2026,
+		"image": "https://pic1.imgdb.cn/item/6986bdfad23a0507340fe0b8.webp",
+		"url": "https://player.laoqian303.qzz.io/",
+		"description": "实现制作类似Apple Music 的滚动歌词效果。",
+		"tags": [
+			"Web"
+		],
+		"github": "https://github.com/uqayiyufog07-eng/MusicPlayer"
 	}
 ]
