@@ -19,5 +19,16 @@
 			"Picture"
 		],
 		"stars": 3
+	},
+	{
+		"name": "github加速",
+		"logo": "blob:https://introduce.laoqian303.qzz.io/2d90f80e-96ec-4fe1-a600-ee2e4e79b629",
+		"url": "https://d.zrf.me/gh",
+		"description": "https://github.com/imsyy/SPlayer/releases/download/v3.0.0/SPlayer-3.0.0-x64-setup.exe",
+		"tags": [
+			"Web",
+			"Github"
+		],
+		"stars": 3
 	}
 ]
