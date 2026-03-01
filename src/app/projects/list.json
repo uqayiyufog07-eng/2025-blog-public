@@ -87,5 +87,25 @@
 			"Web"
 		],
 		"github": "https://github.com/uqayiyufog07-eng/MusicPlayer"
+	},
+	{
+		"name": "API",
+		"year": 2026,
+		"image": "https://pic1.imgdb.cn/item/6986bdfad23a0507340fe0b8.webp",
+		"url": "https://api.laoqian303.us.kg",
+		"description": "走后门调用网易云音乐。",
+		"tags": [
+			"Api"
+		]
+	},
+	{
+		"name": "音乐",
+		"year": 2026,
+		"image": "https://pic1.imgdb.cn/item/6986bdfad23a0507340fe0b8.webp",
+		"url": "https://music.laoqian303.us.kg/",
+		"description": "个人音乐网站套壳网易云。",
+		"tags": [
+			"Web"
+		]
 	}
 ]
